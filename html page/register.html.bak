@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>
+Html tutorial
+</title>
+</head>
+
+<body bgcolor="white">
+
+<table width="1450px">
+<tr>
+<th> </th>
+<th  > <font size="6px" color="red" face="algerian">
+<h1><p align="center">S&m HTML tutorial</p></h1>
+</font> <marquee> <h4>Best Place  to learn html</h4> </marquee> </th>
+
+<th> <img src="htmlicon.png" width="130px" > </th>
+
+<td >
+<font color="550361"><h2>Sign in to S&M</h2></font>
+<form action="#" method="get">
+<b>Username<b> <input type="text"><br><br>
+<b>Password<b> <input type="password"><br><br>
+				<input type="reset" value="login">
+               <input type="submit" value="Register">
+			   <input type="reset" value="Forgot password">
+</form>
+</td>
+
+</tr>
+</table>
+
+<br>
+<font size="4px">
+<a href="D:\html page\Myfirstwebpage.html">Home</a>| 
+<a href="file:///D:/html%20page/contact.html">Contact</a>|
+<a href="D:\html page\Myfirstwebpage.html">Feedback</a>
+</font>
+<br>
+<br>
+
+<table cellpadding="2px">
+<tr>
+ <td width="15%" height="250" bgcolor="7E7879" >
+<center><h2><a href="file:///D:/html%20page/classification.html" >Classification of html tags </a></h2> </center>
+<ul>
+<li><a href="file:///D:/html%20page/basichtmltags.html">Basic html tag</a></li>
+<li><a href="file:///D:/html%20page/formsandinput.html">Forms and input tag</a></li>
+<li><a href="file:///D:/html%20page/formatting.html"> Formatting tags </a></li>
+<li><a href="file:///D:/html%20page/frames.html"> Frames </a></li>
+<li><a href="file:///D:/html%20page/images.html"> Images </a></li>
+<li><a href="file:///D:/html%20page/video.html"> Audio and Video </a></li>
+<li><a href="file:///D:/html%20page/links.html"> Links </a></li>
+<li><a href="file:///D:/html%20page/lists.html"> Lists </a></li>
+<li><a href="file:///D:/html%20page/table.html"> Table </a></li>
+<li><a href="file:///D:/html%20page/mathematical.html"> Mathematical tags </a></li>
+</ul>
+</td> 
+
+<td width="85%" height="250" bgcolor="3B8684"> 
+<font color="02256E" align="center"><h1>Sign up for S&M</h1> </font>
+<form action="#" method="get">
+&nbsp;&nbsp;<b>FirstName<b>&nbsp; <input type="text"><b>&nbsp; Last Name<b><input type="text"> <br><br>
+&nbsp;&nbsp;<b>Password<b>&nbsp;&nbsp;&nbsp; <input type="password"><b>&nbsp;&nbsp;&nbsp;&nbsp;Re-enter<b> <input type="text"> <br><br>
+&nbsp;&nbsp;<b>Gender<b> &nbsp;&nbsp;&nbsp;&nbsp; <input type="radio" name="ge">Male <input type="radio" name="ge">Female <br><br>
+&nbsp;&nbsp;<b>Email<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text"><br><br>
+&nbsp;&nbsp;<b>I agree<b>&nbsp; <input type="Checkbox"><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Create My Account">
+			   
+</form>
+
+ </td>
+</tr>
+
+</table>
+
+<br><br><br>
+
+
+
+
+<center><h4> S&M | Copyright &copy; 2013-19</h4></center>
+
+</body>
+</html>
